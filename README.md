@@ -15,6 +15,10 @@ $ git clone https://github.com/ipkzone/bot-timefarm.git
 $ cd bot-timefarm
 $ php farm.php
 ```
+# configurasion
+```
+edit file config.txt ubah query_id data login akun menggunakan data login akun kalian.
+```
 
 # installasion termux-php-hmsc
 Php Hide My Source Code by Eddie Kidiw
