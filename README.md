@@ -14,6 +14,8 @@ Bot TimeFarmCryptoBot
 $ git clone https://github.com/ipkzone/bot-timefarm.git
 $ cd bot-timefarm
 $ php farm.php
+
+$ licensikey: BOT-TIMEFARM-1337
 ```
 # configurasion
 ```
